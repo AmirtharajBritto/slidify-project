@@ -1,7 +1,7 @@
 ---
 title       : Standard Normal Density App
 subtitle    : Developing Data Products course project
-author      : Ryan Cheung
+author      : Amirtharaj Britto
 job         : Student
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
