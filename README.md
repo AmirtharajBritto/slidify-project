@@ -1,9 +1,9 @@
 ## Course project in Developing Data Products
-###  Road Casualties in Great Britain 1969-84
-####  - a Slidify presentation incorporating a Shiny app to show interactively effect by compulsory wearing of seat belts - 
+###  Standard Normal Density App
 
 
-####This presentation is designed to show how effective compulsory wearing of seat belts decreased fatal accidents in Great Britain.It consisted of 4 parts.  
+
+####This presentation consists of 4 parts.  
 
 - Introduction to my Shiny App
 - Math Behind
